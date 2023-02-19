@@ -15,10 +15,12 @@ Repository Contents
 data: contains the stroke data file
 stroke_prediction.ipynb: Jupyter notebook containing the data preprocessing, exploratory data analysis, and machine learning modeling
 README.md: this file containing an overview of the project
+
 Installation
 Clone this repository to your local machine
 Ensure that you have Jupyter Notebook installed
 Open the Jupyter Notebook and run the code in the notebook
+
 Credits
 The data used in this project was obtained from Kaggle: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 The project was completed as part of a data science course by Chirs Bai at University of Colorado
